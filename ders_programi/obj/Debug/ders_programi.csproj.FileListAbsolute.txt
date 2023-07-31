@@ -1,0 +1,29 @@
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\bin\Debug\ders_programi.exe.config
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\bin\Debug\ders_programi.exe
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\bin\Debug\ders_programi.pdb
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.csprojResolveAssemblyReference.cache
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.Form1.resources
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.Properties.Resources.resources
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.GenerateResource.Cache
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.exe
+C:\Users\UltrAslan\Documents\Visual Studio 2015\Projects\Projeler\ders_programi\ders_programi\obj\Debug\ders_programi.pdb
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.exe.config
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.exe
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.pdb
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.exe
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.pdb
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csprojResolveAssemblyReference.cache
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.Form1.resources
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.Properties.Resources.resources
+F:\Yazılım Notlar DEÜ\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.exe.config
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.exe
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\bin\Debug\ders_programi.pdb
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.Form1.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.Properties.Resources.resources
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.exe
+C:\Users\Acer\Desktop\DEÜ 2. SINIF 1.DÖNEM DERSLER\DEÜ ÇAĞLAYAN\PROJELER-ÖDEVLER\ders_programi\ders_programi\obj\Debug\ders_programi.pdb
